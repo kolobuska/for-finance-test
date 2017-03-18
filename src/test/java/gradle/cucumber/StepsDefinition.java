@@ -17,7 +17,7 @@ import pageobjects.GamePage;
 import pageobjects.UserGamesPage;
 
 
-public class TestClass extends WebDriverUtils {
+public class StepsDefinition extends WebDriverUtils {
 
     // PageObjects
     private UserGamesPage userGamesPage;
