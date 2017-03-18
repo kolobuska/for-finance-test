@@ -18,7 +18,7 @@ Important: Please don't use any external libraries to handle BoardGameGeek API c
 * Gradle wrapper is used (so you don't need installed gradle)
 * Test is os-independent
 * PageObjects and PageFactory patterns are used
-* LoadableComponent is used (to verify browser on tight pages)
+* LoadableComponent is used (to verify browser on right pages)
 * No external libraries used (just Selenium, Cucumber and Log4J)
 * For api used that reference [BGG XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API)
 * XML response is parsed by standard Java DOM and XPATH
