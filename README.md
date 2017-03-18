@@ -45,8 +45,8 @@ src
 |   └───java
 |   |   └───gradle
 |   |       └───cucumber
-|   |           └───RunCukesTest - steps definitions
-|   |           └───StepsDefiniton - cucumber tests runner          
+|   |           └───RunCukesTest - cucumber tests runner
+|   |           └───StepsDefinitons - steps definitions          
 |    └───resources
 |         └───cucumber.feature - test scenario in Gherkin format
 ```
