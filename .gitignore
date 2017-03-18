@@ -1,0 +1,14 @@
+.project
+.classpath
+build/
+.settings/
+.git/
+.gradle/
+.idea/
+*.iml
+target/
+bin/
+# Exclude logs from GIT
+*.log
+keystore
+.vagrant
